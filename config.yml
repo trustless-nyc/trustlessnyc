@@ -1,0 +1,26 @@
+baseURL: "https://www.xxx"
+title: 👩💸👀
+paginate: 50
+theme: hugo-PaperMod
+
+params:
+    ShowPostNavLinks: true
+    # ShowBreadCrumbs: true
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: false
+    ShowToc: true
+
+    homeInfoParams:
+        Title: "None"
+        Content: >
+            - 🌞 
+
+    socialIcons:
+        - name: linkedin
+          url: "https://www.linkedin.com/in/josh-killingsworth/"
